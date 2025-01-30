@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Engineering student
 -------------------
 
-I am currently a second year engineering student, pursuing a degree in Computer Science from VIT Bhopal, University.
+I am currently a third year engineering student, pursuing a degree in Computer Science from VIT Bhopal, University.
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [here](http://linktr.ee/roykhushi)
